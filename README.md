@@ -28,10 +28,10 @@
 - My GitHub Stats:
 
 <a href="https://github.com/amborges">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=amborges&show_icons=true&theme=merko" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=amborges&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/amborges">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amborges&layout=compact&theme=merko" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amborges&layout=compact&theme=merko" />
 </a>
 
 
